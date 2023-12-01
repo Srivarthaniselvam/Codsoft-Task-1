@@ -59,12 +59,11 @@ This Python program is a simple To-Do List application with basic functionalitie
 
 # Screenshots
 ![to1](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/0cbd6e98-9573-4edc-9a3f-48ecdf8fc1e9)
-![to6](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/e9d93be0-74cf-4c3e-bf8b-6d5f18ba17af)
-![to5](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/209b6eac-ff07-4f30-bc8c-947a47b7f608)
-![to4](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/c4e3622b-abf0-49b8-b761-1e2a3edd2c9c)
-![to3](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/d9f2c0df-76b4-4478-95b3-c84fdab410e1)
 ![to2](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/8b4b0dcb-9a9f-4843-aa8a-bf5e2d86d121)
-
+![to3](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/d9f2c0df-76b4-4478-95b3-c84fdab410e1)
+![to4](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/c4e3622b-abf0-49b8-b761-1e2a3edd2c9c)
+![to5](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/209b6eac-ff07-4f30-bc8c-947a47b7f608)
+![to6](https://github.com/Srivarthaniselvam/Codsoft-Task-1/assets/151417502/e9d93be0-74cf-4c3e-bf8b-6d5f18ba17af)
 # License
 
 This project is licensed under the [MIT License](LICENSE).
